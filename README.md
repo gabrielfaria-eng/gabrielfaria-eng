@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**gabrielfaria-eng/gabrielfaria-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🎓 Estudante de Engenharia de Software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+- 🎓 Graduando em Engenharia de Software
+- 💻 Atualmente aprendendo Linguagem C
+- 🚀 Desenvolvendo projetos para fortalecer minhas habilidades
+- 🎯 Em busca da minha primeira oportunidade de estágio na área de tecnologia
+
+---
+
+## 🛠 Tecnologias
+
+- C
+- Git
+- GitHub
+
+---
+
+## 📚 Atualmente estudando
+
+- Lógica de Programação
+- Desenvolvimento de Software
+- Redes de Computadores
+- Segurança da Informação
+- Computação em Nuvem
+
+---
+
+## 🎯 Objetivos
+
+- Construir uma base sólida em programação
+- Publicar todos os projetos desenvolvidos durante a graduação
+- Criar um portfólio profissional
+- Conquistar meu primeiro estágio em Desenvolvimento de Software
+
+---
+
+## 📂 Projetos
+
+Os projetos serão adicionados conforme forem desenvolvidos durante a graduação.
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: www.linkedin.com/in/gabriel-faria-556b90340
+- 📧 E-mail: gabrielfariia.eng@gmail.com
+
