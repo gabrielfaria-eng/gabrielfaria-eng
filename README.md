@@ -43,7 +43,7 @@ Em breve, projetos desenvolvidos durante meus estudos serão adicionados aqui.
 
 ## 📫 Contato
 
-- GitHub: [gabrielfaria-eng](https://github.com/gabrielfaria-eng)
+- 💻 GitHub: [gabrielfaria-eng](https://github.com/gabrielfaria-eng)
 - 💼 LinkedIn: www.linkedin.com/in/gabriel-faria-556b90340
 - 📧 E-mail: gabrielfariia.eng@gmail.com
 
