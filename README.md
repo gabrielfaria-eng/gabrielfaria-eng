@@ -1,12 +1,15 @@
 
- 🎓 Estudante de Engenharia de Software.
-
----
+🎓 Estudante de Engenharia de Software
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software, atualmente desenvolvendo meus fundamentos em programação com C e buscando construir projetos que fortaleçam minhas habilidades para ingressar na área de desenvolvimento de software.
----
+Sou estudante de Engenharia de Software, atualmente desenvolvendo meus fundamentos em programação e construindo projetos para fortalecer minhas habilidades técnicas.
+
+- 🎓 Graduando em Engenharia de Software
+- 💻 Atualmente aprendendo a linguagem C
+- 📚 Estudando lógica de programação e fundamentos de desenvolvimento de software
+- 🚀 Desenvolvendo projetos para colocar meus conhecimentos em prática
+- 🎯 Em busca da minha primeira oportunidade de estágio na área de tecnologia
 
 ## 🛠 Tecnologias e ferramentas
 
@@ -17,7 +20,6 @@ Sou estudante de Engenharia de Software, atualmente desenvolvendo meus fundament
 ### Ferramentas
 - Git
 - GitHub
----
 
 ## 📚 Atualmente estudando
 
@@ -27,20 +29,21 @@ Sou estudante de Engenharia de Software, atualmente desenvolvendo meus fundament
 - Segurança da Informação
 - Computação em Nuvem
 
----
-
-## 🎯 Objetivos
-
-- Construir uma base sólida em programação
-- Publicar todos os projetos desenvolvidos durante a graduação
-- Criar um portfólio profissional
-- Conquistar meu primeiro estágio em Desenvolvimento de Software
-
----
-
 ## 📂 Projetos
 
-Os projetos serão adicionados conforme forem desenvolvidos durante a graduação.
+Em breve, projetos desenvolvidos durante meus estudos serão adicionados aqui.
+
+## 📈 Objetivos
+
+- Desenvolver minhas habilidades de programação
+- Criar projetos práticos
+- Aprimorar meus conhecimentos em desenvolvimento de software
+- Construir um portfólio profissional
+- Conquistar minha primeira oportunidade de estágio
+
+## 📫 Contato
+
+- GitHub: [gabrielfaria-eng](https://github.com/gabrielfaria-eng)
 
 ---
 
