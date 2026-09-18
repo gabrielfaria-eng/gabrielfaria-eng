@@ -5,11 +5,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em Engenharia de Software
-- 💻 Atualmente aprendendo Linguagem C
-- 🚀 Desenvolvendo projetos para fortalecer minhas habilidades
-- 🎯 Em busca da minha primeira oportunidade de estágio na área de tecnologia
-
+Sou estudante de Engenharia de Software, atualmente desenvolvendo meus fundamentos em programação com C e buscando construir projetos que fortaleçam minhas habilidades para ingressar na área de desenvolvimento de software.
 ---
 
 ## 🛠 Tecnologias
