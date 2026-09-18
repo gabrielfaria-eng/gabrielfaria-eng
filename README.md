@@ -8,12 +8,15 @@
 Sou estudante de Engenharia de Software, atualmente desenvolvendo meus fundamentos em programação com C e buscando construir projetos que fortaleçam minhas habilidades para ingressar na área de desenvolvimento de software.
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias e ferramentas
 
+### Em aprendizado
 - C
+- Lógica de Programação
+
+### Ferramentas
 - Git
 - GitHub
-
 ---
 
 ## 📚 Atualmente estudando
